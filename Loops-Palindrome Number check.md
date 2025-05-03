@@ -1,4 +1,4 @@
-## Loops in Python: Palindrome Number Checker
+### Loops in Python: Palindrome Number Checker
 ## Name: GEETHU R
 ## Register No.: 212224040089
 ## 🎯 Aim
